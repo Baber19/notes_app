@@ -23,8 +23,6 @@ class NotesApp extends StatelessWidget {
         Column(
           children: [
             Text("Notes App"),
-
-
           ],
         )
     );
