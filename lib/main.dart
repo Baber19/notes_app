@@ -25,6 +25,7 @@ class NotesApp extends StatelessWidget {
             Text("Notes App"),
             Text("Notes App"),
             Text("Notes App"),
+            Text("Notes App"),
 
           ],
         )
