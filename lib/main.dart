@@ -24,6 +24,7 @@ class NotesApp extends StatelessWidget {
           children: [
             Text("Notes App"),
             Text("Notes App"),
+            Text("Notes App"),
 
           ],
         )
