@@ -19,6 +19,14 @@ class NotesApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(body: Center(child: Text("Notes App")));
+    return Scaffold(body:
+        Column(
+          children: [
+            Text("Notes App"),
+            Text("Notes App"),
+
+          ],
+        )
+    );
   }
 }
